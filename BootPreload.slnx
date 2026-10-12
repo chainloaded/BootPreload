@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Preloader/Preloader.vcxproj" Id="00c9fcde-7254-4459-92a8-fc29a3b58a5e" />
+</Solution>
